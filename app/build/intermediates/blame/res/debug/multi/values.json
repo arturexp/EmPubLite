@@ -7,8 +7,8 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 46,
-                    "endOffset": 97
+                    "endColumn": 47,
+                    "endOffset": 98
                 },
                 "from": {
                     "file": "F:\\ARTUR\\AndroidAPP\\EmPubLite\\app\\src\\main\\res\\values\\strings.xml",
@@ -16,8 +16,8 @@
                         "startLine": 3,
                         "startColumn": 4,
                         "startOffset": 56,
-                        "endColumn": 46,
-                        "endOffset": 98
+                        "endColumn": 47,
+                        "endOffset": 99
                     }
                 }
             },
@@ -25,40 +25,25 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 102,
+                    "startOffset": 103,
                     "endColumn": 52,
-                    "endOffset": 150
+                    "endOffset": 151
                 },
                 "from": {
-                    "file": "F:\\ARTUR\\AndroidAPP\\EmPubLite\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 103,
-                        "endColumn": 52,
-                        "endOffset": 151
-                    }
+                    "file": "F:\\ARTUR\\AndroidAPP\\EmPubLite\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 155,
+                    "startOffset": 156,
                     "endLine": 6,
                     "endColumn": 12,
-                    "endOffset": 283
+                    "endOffset": 284
                 },
                 "from": {
-                    "file": "F:\\ARTUR\\AndroidAPP\\EmPubLite\\app\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 54,
-                        "endLine": 5,
-                        "endColumn": 12,
-                        "endOffset": 182
-                    }
+                    "file": "F:\\ARTUR\\AndroidAPP\\EmPubLite\\app\\src\\main\\res\\values\\styles.xml"
                 }
             }
         ]

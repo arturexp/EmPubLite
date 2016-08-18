@@ -14,15 +14,15 @@ ADDED from F:\ARTUR\AndroidAPP\EmPubLite\app\src\main\AndroidManifest.xml:2:1-27
 		INJECTED from F:\ARTUR\AndroidAPP\EmPubLite\app\src\main\AndroidManifest.xml
 		INJECTED from F:\ARTUR\AndroidAPP\EmPubLite\app\src\main\AndroidManifest.xml
 supports-screens
-ADDED from F:\ARTUR\AndroidAPP\EmPubLite\app\src\main\AndroidManifest.xml:4:5-8:39
+ADDED from F:\ARTUR\AndroidAPP\EmPubLite\app\src\main\AndroidManifest.xml:5:5-9:39
 	android:largeScreens
-		ADDED from F:\ARTUR\AndroidAPP\EmPubLite\app\src\main\AndroidManifest.xml:5:9-36
+		ADDED from F:\ARTUR\AndroidAPP\EmPubLite\app\src\main\AndroidManifest.xml:6:9-36
 	android:smallScreens
-		ADDED from F:\ARTUR\AndroidAPP\EmPubLite\app\src\main\AndroidManifest.xml:7:9-37
-	android:normalScreens
-		ADDED from F:\ARTUR\AndroidAPP\EmPubLite\app\src\main\AndroidManifest.xml:6:9-37
-	android:xlargeScreens
 		ADDED from F:\ARTUR\AndroidAPP\EmPubLite\app\src\main\AndroidManifest.xml:8:9-37
+	android:normalScreens
+		ADDED from F:\ARTUR\AndroidAPP\EmPubLite\app\src\main\AndroidManifest.xml:7:9-37
+	android:xlargeScreens
+		ADDED from F:\ARTUR\AndroidAPP\EmPubLite\app\src\main\AndroidManifest.xml:9:9-37
 application
 ADDED from F:\ARTUR\AndroidAPP\EmPubLite\app\src\main\AndroidManifest.xml:11:5-25:19
 	android:label
